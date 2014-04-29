@@ -39,3 +39,24 @@
  *  #1: Fix the problem that the info filed is always displaying "Retrieving location..."
  *  add .reviewboardrc
  *  sync cordova-mobile-spec test into cordova-plugin-geolocation
+
+
+## 0.3.6 (Tue Apr 29 2014)
+
+
+ *  [Android]Modify geolocation test file to disable the 'Use Cordova Geolocation Plugin' options at Android
+ *  CB-6452 Updated version and RELEASENOTES.md for release 0.3.7
+ *  CB-6460: Update license headers
+ *  CB-6422 [windows8] use cordova/exec/proxy
+ *  CB-6212 iOS: fix warnings compiled under arm64 64-bit
+ *  CB-5977: Removing the Android Geolocation Code.  Mission Accomplished.
+ *  Add NOTICE file
+ *  CB-5980 Incremented plugin version on dev branch.
+ *  CB-5980 Updated version and RELEASENOTES.md for release 0.3.6
+ *  cleaned up plugin.xml
+ *  [ubuntu] request location permission
+ *  add ubuntu platform
+ *  CB-5326 adding FFOS permission and updating supported platforms
+ *  Delete stale test/ directory
+ *  CB-5729 [BlackBerry10] Update GeolocationProxy to return collapsed object
+ *  CB-5719 Incremented plugin version on dev branch.
